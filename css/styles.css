@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  color: #905B30;
+}
+
+p {
+  line-height: 2;
+}
+
+.vitam-te {
+  font-size: 3rem;
+  color: #42240c;
+  font-weight: normal;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #df8931;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 200px auto 200px auto;
+  text-align: left;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5rem;
+  color: #42240c;
+}
+
+h2 {
+  color: #42240c;
+}
+
+h3 {
+  color: #42240c;
+}
+
+hr {
+  margin: 100px auto 100px auto;
+  border: dotted #42240c 6px;
+  width: 5%;
+  border-bottom: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.middle-container {
+  background-color: #f5c16c;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #df8931;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profilova {
+  width: 200px;
+  height: 200px;
+}
+
+.skill-image1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image2 {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-image3 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link {
+  color: #42240c;
+  margin: 20px 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #774C2A;
+}
+
+.last-word {
+  color: #EAF6F6;
+  font-weight: lighter;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 200;
+  padding: 11px;
+  background-color: #42240C;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #000000 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #764B29;
+  border: solid #42240C 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
